@@ -1,1 +1,1 @@
-# DeepLearning_Go
+# Go
